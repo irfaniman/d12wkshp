@@ -15,7 +15,7 @@ public class CartService {
         lstItems.add(itm);
 
         itm = new Item();
-        itm.setItemName("Channel Bag");
+        itm.setItemName("Chanel Bag");
         itm.setQuantity(2);
         lstItems.add(itm);
 
@@ -26,6 +26,18 @@ public class CartService {
 
         itm = new Item();
         itm.setItemName("LV Tote Bag");
+        itm.setQuantity(8);
+        lstItems.add(itm);
+
+
+        itm = new Item();
+        itm.setItemName("LV Belt");
+        itm.setQuantity(8);
+        lstItems.add(itm);
+
+
+        itm = new Item();
+        itm.setItemName("LV Scarf");
         itm.setQuantity(8);
         lstItems.add(itm);
 
